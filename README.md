@@ -179,15 +179,41 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## CIRCUIT DIAGRAM 
  
-
+ ![image](https://github.com/user-attachments/assets/600ba502-9dd3-4ece-9eef-49da8a2f477a)
 ## STM 32 CUBE PROGRAM :
+## main.c:
+ 
 
 
 
 ## Output screen shots of proteus  :
+
+![keyon](https://github.com/user-attachments/assets/1496bd62-e4fe-41d7-a298-800cde33565d)
+
+![key1](https://github.com/user-attachments/assets/5c7e41b4-207f-4877-a4ff-a86db9c96e9e)
+
+![key2](https://github.com/user-attachments/assets/ca742522-33a5-47be-8409-9d69695ed4cf)
+
+![key3](https://github.com/user-attachments/assets/30b0a788-7a9c-42fb-8f1f-744fec361591)
+
+![key4](https://github.com/user-attachments/assets/9ed7b2e4-23fe-4aa8-bc3a-59caee7862e2)
+
+![key5](https://github.com/user-attachments/assets/b9af1a97-5ead-42e0-abe3-5af1d4e4ba66)
+
+![key6](https://github.com/user-attachments/assets/077cb473-af4b-4c4f-a91d-71f9dc2e40e2)
+
+![key7](https://github.com/user-attachments/assets/b01bfc43-bdad-493a-ba92-d55380c72fa0)
+![key8](https://github.com/user-attachments/assets/c5aa14c5-7ff3-4b63-b4f4-0d76741d7950)
+
+![key9](https://github.com/user-attachments/assets/7eb12197-d46d-47f1-8ec3-1e47ea77e895)
+
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ![exp5pdf](https://github.com/user-attachments/assets/b4c14a4d-eccd-4766-8762-df545cc2a406)
+
+
  
  
 ## Result :
